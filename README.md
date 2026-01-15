@@ -1,73 +1,18 @@
-<img align="left" height="150" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&s"  />
+# 💫 About Me:
+# Hi there, I'm Tahirah Roohi 👋 🇵🇰<br><br>I am a passionate Full-Stack Developer and AI Enthusiast currently in my 10th grade. I love building smart applications and am constantly exploring the world of Agentic AI.<br><br>### 🌟 About Me<br>- 🎓 **Student:** Currently in 10th Class, balancing school with high-level tech learning.<br>- 🚀 **Learning:** Enrolled in the **Cloud Applied Agentic AI** course at GIAIC (Governor House).<br>- 🏆 **Hackathon Achiever:** Recently completed Phase 2 of the hackathon with my project **FocusFlow**.<br>- 🛠️ **Problem Solver:** Experienced in troubleshooting WSL, Docker, and deployment environments.<br>- ⚡ **Fun Fact:** When I'm not coding, I explore nature or experiment with DIY home remedies!<br><br>### 💻 Tech Stack<br>- **Languages:** TypeScript, JavaScript, Python<br>- **Frontend:** Next.js, React, Tailwind CSS, Bootstrap, HTML5/CSS3<br>- **Backend & Cloud:** Node.js, FastAPI, Docker, Firebase, Vercel<br>- **AI & Tools:** Agentic AI Frameworks, Claude Code, Git/GitHub<br><br>### 🏗️ Projects & Highlights<br>- **FocusFlow:** A project developed for Hackathon 2 (Phase 2).<br>- **Travel Assistant:** A frontend application focused on seamless user experiences.<br>- **CLI Tools:** Built various TypeScript/Node.js CLI projects including an ATM, Calculator, and Number Guessing Game.<br>- **100 Days of Code:** Documenting my consistent learning journey in TypeScript.<br><br>### 📊 GitHub Stats<br>![Tahirah's GitHub stats](https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=dracula)<br>![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=dracula)<br><br>### 📫 Connect with Me<br>- **LinkedIn:** [in/tahirah-roohi](https://www.linkedin.com/in/tahirah-roohi/)<br>- **Freelance:** [Fiverr Profile](https://www.fiverr.com/s/yQ5A50) | [Upwork Profile](https://www.upwork.com/freelancers/~010456579d2a13ce59)<br><br>---<br>*“Success is the sum of small efforts, repeated day in and day out.”*
 
-###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/tahirah-roohi" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/itx_her.09?igsh=bG8zeDJtaWR3YXFx" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://web.facebook.com/profile.php?id=100094042236553" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tahirah_roohi?igsh=eTQ2ZnZwZGQzMTkx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tahirah-roohi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Tahirah_webDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roohitahirah@gmail.com) 
 
-###
-<br />
-<h1 align="center">hey there 👋</h1>
+# 💻 Tech Stack:
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=tahirahwebdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=tahirahwebdev&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahwebdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-###
+---
+[![](https://visitcount.itsvg.in/api?id=tahirahwebdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=TahirahWebDev.TahirahWebDev&"  />
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm Tahirah Roohi from Pakistan<br><br>- 🔭 I’m student of 10th class<br>- 📚 I'm currently learning Cloud Applied Agentic AI course at Governor House<br>- ⚡ In my free time I usually practice coding or explore about nature</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
-</div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=TahirahWebDev&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
