@@ -22,7 +22,7 @@
 - 🚀 **Learning:** Proud student of the **Cloud Applied Agentic AI** course at GIAIC (Governor House).
 - 🏆 **Hackathon Achiever:** Completed Phase 2 of the hackathon with my project **FocusFlow**.
 - 🛠️ **Problem Solver:** Expert in troubleshooting WSL, Docker, and complex deployment environments.
-- ⚡ **Fun Fact:** When I'm not coding, I explore nature or experiment with DIY home remedies like my methi and orange peel hair tonic!
+- ⚡ **Fun Fact:** When I'm not coding, I explore nature!
 
 ---
 
@@ -48,14 +48,15 @@
 
 ---
 
-### 📊 My GitHub Stats:
+### 📊 My GitHub Activity:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=transparent&border_radius=10&cache_seconds=1800" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TahirahWebDev&theme=dracula" width="400" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TahirahWebDev&theme=dracula" width="400" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirahWebDev&theme=transparent&border_radius=10&cache_seconds=1800" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahirahWebDev&theme=dracula" width="400" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahirahWebDev&theme=dracula" width="400" height="170" />
 </div>
 
 ---
