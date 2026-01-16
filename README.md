@@ -1,18 +1,84 @@
-# 💫 About Me:
-# Hi there, I'm Tahirah Roohi 👋 🇵🇰<br><br>I am a passionate Full-Stack Developer and AI Enthusiast currently in my 11th grade. I love building smart applications and am constantly exploring the world of Agentic AI.<br><br>### 🌟 About Me<br>- 🎓 **Student:** Currently in 10th Class, balancing school with high-level tech learning.<br>- 🚀 **Learning:** Enrolled in the **Cloud Applied Agentic AI** course at GIAIC (Governor House).<br>- 🏆 **Hackathon Achiever:** Recently completed Phase 2 of the hackathon with my project **FocusFlow**.<br>- 🛠️ **Problem Solver:** Experienced in troubleshooting WSL, Docker, and deployment environments.<br>- ⚡ **Fun Fact:** When I'm not coding, I explore nature or experiment with DIY home remedies!<br><br>### 💻 Tech Stack<br>- **Languages:** TypeScript, JavaScript, Python<br>- **Frontend:** Next.js, React, Tailwind CSS, Bootstrap, HTML5/CSS3<br>- **Backend & Cloud:** Node.js, FastAPI, Docker, Firebase, Vercel<br>- **AI & Tools:** Agentic AI Frameworks, Claude Code, Git/GitHub<br><br>### 🏗️ Projects & Highlights<br>- **FocusFlow:** A project developed for Hackathon 2 (Phase 2).<br>- **Travel Assistant:** A frontend application focused on seamless user experiences.<br>- **CLI Tools:** Built various TypeScript/Node.js CLI projects including an ATM, Calculator, and Number Guessing Game.<br>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi,%20I'm%20Tahirah%20Roohi%20👋&fontSize=50&animation=fadeIn&fontAlignY=35" width="100%" />
+</div>
 
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/tahirah_roohi?igsh=eTQ2ZnZwZGQzMTkx) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/tahirah-roohi/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/Tahirah_webDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:roohitahirah@gmail.com) 
-
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=tahirahwebdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=tahirahwebdev&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tahirahwebdev&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+<div align="center">
+  <h3> 🚀 Full-Stack Developer | AI Enthusiast | Student </h3>
+  
+  <p align="center">
+    <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
+    <img src="https://img.shields.io/github/followers/TahirahWebDev?label=Followers&style=social" />
+    <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-blue" />
+  </p>
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=tahirahwebdev&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+### 💫 About Me:
+👋 I'm **Tahirah Roohi** — a passionate developer currently in **Class 11 (Sindh Board)**. I specialize in building smart applications and am deeply immersed in the world of **Agentic AI**.
+
+- 🎓 **Academic:** Currently in 11th grade, balancing rigorous studies with high-level tech.
+- 🚀 **Learning:** Proud student of the **Cloud Applied Agentic AI** course at GIAIC (Governor House).
+- 🏆 **Hackathon Achiever:** Completed Phase 2 of the hackathon with my project **FocusFlow**.
+- 🛠️ **Problem Solver:** Expert in troubleshooting WSL, Docker, and complex deployment environments.
+- ⚡ **Fun Fact:** When I'm not coding, I explore nature or experiment with DIY home remedies!
+
+---
+
+### 💻 Tech Stack:
+<div align="left">
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+</div>
+
+---
+
+### 🏗️ Projects & Highlights:
+- 📂 **FocusFlow:** A high-performance productivity tool for Hackathon 2.
+- 🌍 **Travel Assistant:** Frontend application focused on user experience.
+- ⚙️ **uaarn-b-v9:** Scalable FastAPI backend deployment.
+- ⌨️ **CLI Suite:** Built professional CLI tools including an ATM, Calculator, and Games.
+
+---
+
+### 📊 My GitHub Stats:
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=radical&border_radius=10" height="170" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirahWebDev&theme=radical&border_radius=10" width="100%" />
+</div>
+
+---
+
+### 🌐 Connect With Me:
+<div align="left">
+  <a href="https://linkedin.com/in/tahirah-roohi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~010456579d2a13ce59" target="_blank">
+    <img src="https://img.shields.io/badge/Upwork-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://www.fiverr.com/s/yQ5A50" target="_blank">
+    <img src="https://img.shields.io/badge/Fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/tahirah_roohi" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:roohitahirah@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+---
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+</div>
