@@ -50,12 +50,12 @@
 
 ### 📊 My GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=transparent&rank_icon=github&border_radius=10&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=transparent&border_radius=10&cache_seconds=1800" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirahWebDev&theme=radical&border_radius=10&cache_seconds=1800" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirahWebDev&theme=transparent&border_radius=10&cache_seconds=1800" width="100%" />
 </div>
 
 ---
