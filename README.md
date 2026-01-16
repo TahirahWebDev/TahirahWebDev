@@ -9,6 +9,7 @@
     <img src="https://img.shields.io/badge/Maintained%3F-yes-green.svg" />
     <img src="https://img.shields.io/github/followers/TahirahWebDev?label=Followers&style=social" />
     <img src="https://img.shields.io/badge/Location-Karachi,%20Pakistan-blue" />
+    <img src="https://komarev.com/ghpvc/?username=TahirahWebDev&color=blueviolet&style=flat-square&label=PROFILE+VIEWS" />
   </p>
 </div>
 
@@ -21,7 +22,7 @@
 - 🚀 **Learning:** Proud student of the **Cloud Applied Agentic AI** course at GIAIC (Governor House).
 - 🏆 **Hackathon Achiever:** Completed Phase 2 of the hackathon with my project **FocusFlow**.
 - 🛠️ **Problem Solver:** Expert in troubleshooting WSL, Docker, and complex deployment environments.
-- ⚡ **Fun Fact:** When I'm not coding, I explore nature or experiment with DIY home remedies!
+- ⚡ **Fun Fact:** When I'm not coding, I explore nature or experiment with DIY home remedies like my methi and orange peel hair tonic!
 
 ---
 
@@ -49,12 +50,12 @@
 
 ### 📊 My GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=radical&rank_icon=github&border_radius=10" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=radical&border_radius=10" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TahirahWebDev&show_icons=true&theme=radical&rank_icon=github&border_radius=10&cache_seconds=1800" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TahirahWebDev&layout=compact&theme=radical&border_radius=10&cache_seconds=1800" height="170" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirahWebDev&theme=radical&border_radius=10" width="100%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahirahWebDev&theme=radical&border_radius=10&cache_seconds=1800" width="100%" />
 </div>
 
 ---
@@ -79,6 +80,7 @@
 </div>
 
 ---
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F700FF&center=true&vCenter=true&width=435&lines=The+best+way+to+predict+the+future;is+to+create+it.;--+Abraham+Lincoln" alt="Typing SVG" />
 </div>
