@@ -56,7 +56,7 @@
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TahirahWebDev&theme=dracula" width="400" height="170" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=TahirahWebDev&theme=dracula" width="400" height="170" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=TahirahWebDev&theme=dracula" width="400" height="170" />
 </div>
 
 ---
